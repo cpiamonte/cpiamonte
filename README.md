@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Claudine, a full-time frontend web developer.</div>  
+### <div align="center">I'm Claudine, a full-time frontend developer.</div>  
 
 <br />
 
